@@ -27,8 +27,8 @@ Milk tea lover | AI & Data Engineering Student | Always Learning 🤍
 ### 📫 Contact Me
 | Platform | Link |
 |---------|------|
-| 📧 Email | boonyanat.puv@gmail.com |
-| 💼 LinkedIn | *จะใส่ลิงก์เมื่อพร้อม* |
+| 📧 Email | boonyanat.puv@bumail.com |
+| 💼 LinkedIn | (https://www.linkedin.com/in/boonyanat-puvicjitsutin-b117b3316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BgRcTRL8mQPGycisSLFMKBg%3D%3D) |
 | 🌐 Portfolio | *กำลังจัดทำ...* |
 
 ---
