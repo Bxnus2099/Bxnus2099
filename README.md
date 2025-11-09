@@ -1,20 +1,38 @@
 ## Hi there 👋
 
-Boonyanat 
-Bonus
-Milk Tea
+### I'm **Boonyanat**, but you can call me **Bonus** ☕✨  
+Milk tea lover | AI & Data Engineering Student | Always Learning 🤍
 
-<!--
-**Bxnus2099/Bxnus2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
+- 🎓 Studying **Artificial Intelligence & Data Science**
+- 💡 Interested in **Machine Learning, Data Visualization, and Web Frontend**
+- 🌟 I enjoy creating projects that are challenging and meaningful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Focus
+- Improving my **Python & SQL** skills
+- Learning **Data Analytics workflows**
+- Building personal projects to sharpen problem-solving skills
+
+---
+
+### 💬 Feel free to ask me about:
+`Python` · `HTML/CSS` · `Tailwind` · `Data Analysis`  
+
+---
+
+### 📫 Contact Me
+| Platform | Link |
+|---------|------|
+| 📧 Email | boonyanat.puv@gmail.com |
+| 💼 LinkedIn | *จะใส่ลิงก์เมื่อพร้อม* |
+| 🌐 Portfolio | *กำลังจัดทำ...* |
+
+---
+
+### ✨ Fun Fact
+I cannot start a study session without **milk tea** 😆
+
