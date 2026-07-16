@@ -32,7 +32,3 @@ Milk tea lover | AI & Data Engineering Student | Always Learning 🤍
 | 🌐 Portfolio | *กำลังจัดทำ...* |
 
 ---
-
-### ✨ Fun Fact
-I cannot start a study session without **milk tea** 😆
-
