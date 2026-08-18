@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm **Boonyanat**, but you can call me **Bonus** ☕✨  
-Milk tea lover | AI & Data Engineering Student | Always Learning 🤍
+| AI & Data Engineering Student | Always Learning 🤍
 
 ---
 
