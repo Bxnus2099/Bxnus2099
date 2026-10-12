@@ -16,11 +16,7 @@
 - Improving my **Python & SQL** skills
 - Learning **Data Analytics workflows**
 - Building personal projects to sharpen problem-solving skills
-
----
-
-### 💬 Feel free to ask me about:
-`Python` · `HTML/CSS` · `Tailwind` · `Data Analysis`  
+  
 
 ---
 
